@@ -9,6 +9,7 @@ on:
     - cron: '00 2 * * *'
     - cron: '00 9 * * *'    
     - cron: '00 12 * * *'
+  workflow_dispatch:
 
 
 
